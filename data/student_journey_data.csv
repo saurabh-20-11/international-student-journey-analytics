@@ -1,0 +1,16 @@
+student_id,country,visa_completed,arrival_completed,orientation_attended,checkin_completed,event_participation,retained
+1,India,Yes,Yes,Yes,Yes,3,Yes
+2,China,Yes,Yes,No,Yes,1,Yes
+3,Nigeria,Yes,No,No,No,0,No
+4,Brazil,Yes,Yes,Yes,Yes,2,Yes
+5,India,Yes,Yes,Yes,No,1,No
+6,China,No,No,No,No,0,No
+7,Nepal,Yes,Yes,Yes,Yes,4,Yes
+8,India,Yes,Yes,No,Yes,2,Yes
+9,Bangladesh,Yes,No,No,No,0,No
+10,Vietnam,Yes,Yes,Yes,Yes,3,Yes
+11,India,Yes,Yes,Yes,Yes,2,Yes
+12,China,Yes,Yes,No,Yes,1,Yes
+13,Nigeria,Yes,Yes,Yes,No,1,No
+14,Brazil,Yes,Yes,Yes,Yes,3,Yes
+15,Nepal,Yes,Yes,No,Yes,2,Yes
